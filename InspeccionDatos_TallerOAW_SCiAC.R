@@ -87,6 +87,7 @@ sd(bd_correcta_transpose$BOYACA, na.rm = T)
 # Tambien podemos visualizar los datos con graficos de caja y bigotes. Los datos atípicos
 # pueden mostrar un error en los datos (no siempre son errores pero está bien comprobar)
 
+#
 boxplot(bd_correcta_transpose)
 
 
